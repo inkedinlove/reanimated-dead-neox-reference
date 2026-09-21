@@ -3,7 +3,7 @@
 This repository is the planned public home for the Neo X integration components proposed for **Reanimated Dead**, a live browser-based trading card game.
 
 **Project:** Reanimated Dead  
-**Live game:** https://reanimateddead.com  
+**Live game:** https://www.reanimateddead.com  
 **Network:** Neo X  
 **Status:** Proposed / pre-development  
 **Grant track:** Neo X Elevate — Genesis
